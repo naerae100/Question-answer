@@ -1,0 +1,18 @@
+1,Aryan,Pokheral,9840014021,16 sept 2021,28 Sep 2021,15 Sep 2021
+3,Nemo,Nae,9823016365,21 sept 201,28 Sep 2021,19 Sep 2021
+5,Bheem,Tamang,984002312,26 sept 2021,28 Sep 2021,25 Sep 2021
+6,Ramesh,Raut,9813221706,27 sept 2021,28 Sep 2021,16 Sep 2021
+7,simran,baral,9885212322,18 Sep 2021,2 Sep 2021,Null
+9,swikrit1,gulariyaBardiya,9840023444,Null,28 Sep 2021,17 Sep 2021
+10,bishwo,lazimpat2344577,9840023444,Null,28 Sep 2021,17 Sep 2021
+11,abcd,gulariyaBardiya,9840023444,Null,28 Sep 2021,17 Sep 2021
+12,1234456,gulariyaBardiya,9840023444,Null,28 Sep 2021,17 Sep 2021
+5,gaddu,maitidevi,98400sdfdsf,Null,28 Sep 2021,18 Sep 2021
+22,swikrit1,gulariyaBardiya,9840023444,Null,28 Sep 2021,17 Sep 2021
+7,pd,nn,123,19 Sep 2021,04 Oct 2021,Null
+97,pd,nn,123,19 Sep 2021,27 Dec 2021,Null
+99,Prad,kathm,98402,19 Sep,28 Sep 2021,Null
+0,Pradip522,kathmandu,98402,19 Sep 2021,28 Sep 2021,Null
+66,n,n,1,n,28 Sep 2021,n
+100,QWE,ABC,231,15 sept,05 Oct 2021,14 Sept
+2,Ingt,Subedi,9844131868,20 sept 2021,28 Sep 2021,17 Sep 2021
